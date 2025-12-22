@@ -3,7 +3,7 @@
 This repository contains the code and resources that we have used to
 participate in the PARSEME 2.0 Shared Task on MWE Identification.
 Our final implementation on the [leaderboard](https://www.codabench.org/competitions/12003/#) 
-can be found under the name BeeParser.
+can be found under the names *bert-multilingual-trial* and *BeeParser*.
 
 This project is also the term project for the course BLG505 - Natural Language Processing
 in Istanbul Technical University.
