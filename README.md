@@ -1,4 +1,8 @@
-# Cross-Lingual Interactions at PARSEME 2.0 Subtask 1
+# Cross Lingual BERT at PARSEME 2.0 Subtask 1: Can Cross-Lingual Interactions Improve MWE Identification?
+
+This repository is the official codebase for the paper "Cross Lingual BERT at PARSEME 2.0 Subtask 1: 
+Can Cross-Lingual Interactions Improve MWE Identification?", accepted into [PARSEME 2.0 Shared Task](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:parseme-st)
+proceedings within [EACL 2026 Workshops](https://2026.eacl.org/program/workshops/).
 
 This repository contains the code and resources that we have used to
 participate in the PARSEME 2.0 Shared Task on MWE Identification.
