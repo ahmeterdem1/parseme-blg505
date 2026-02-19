@@ -1,4 +1,4 @@
-# Cross Lingual BERT at PARSEME 2.0 Subtask 1: Can Cross-Lingual Interactions Improve MWE Identification?
+# BeeParser at MWE-2026 PARSEME 2.0 Subtask 1: Can Cross-Lingual Interactions Improve MWE Identification?
 
 This repository is the official codebase for the paper "BeeParser at MWE-2026 PARSEME 2.0 Subtask 1: Can Cross-Lingual
 Interactions Improve MWE Identification?", accepted into [PARSEME 2.0 Shared Task](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:parseme-st)
