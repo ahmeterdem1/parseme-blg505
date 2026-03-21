@@ -4,6 +4,8 @@ This repository is the official codebase for the paper "BeeParser at MWE-2026 PA
 Interactions Improve MWE Identification?", accepted into [PARSEME 2.0 Shared Task](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:parseme-st)
 proceedings within [EACL 2026 Workshops](https://2026.eacl.org/program/workshops/).
 
+Paper can be accessed [here](https://aclanthology.org/2026.mwe-1.18/).
+
 This repository contains the code and resources that we have used to
 participate in the PARSEME 2.0 Shared Task on MWE Identification.
 Our final implementation on the [leaderboard](https://www.codabench.org/competitions/12003/#) 
